@@ -1,0 +1,5 @@
+{
+  "name": "TCM Tongue Analyzer AI",
+  "description": "Aplikasi analisis lidah berbasis AI untuk diagnosis TCM, memberikan pola, titik akupunktur, herbal, dan kode ICD-10 yang relevan.",
+  "requestFramePermissions": []
+}
